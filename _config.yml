@@ -16,8 +16,8 @@ minimal: false # use a dark header
 # Menu
 
 navigation: # accepts {file, title, url, icon, sidebaricon}
-  - { file: "/Resume.pdf", title: "Resume" }
-  - { file: "index.html" }
+  - { file: "Resume.pdf", title: "Resume" }
+  - { file: "index.html", title: "About Me" }
   - { file: "README.md" }
 
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -27,7 +27,6 @@ external: # shows a footer with social links - for available icons see fontaweso
       icon: github,
       url: "https://github.com/ariakillebrewbruehl/",
     }
-  - { title: Subscribe, icon: rss, url: "/feed.xml" }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

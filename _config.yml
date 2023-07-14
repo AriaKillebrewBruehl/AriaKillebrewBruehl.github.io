@@ -26,6 +26,11 @@ external: # shows a footer with social links - for available icons see fontaweso
       icon: github,
       url: "https://github.com/ariakillebrewbruehl/",
     }
+  - {
+      title: LinkedIn,
+      icon: linkedin,
+      url: "https://www.linkedin.com/in/aria-killebrew-bruehl/",
+    }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
